@@ -1,3 +1,10 @@
 # Welcome to my page 
 
-Step1 : create a website 
+- Personal Information
+
+Name: Sahana Srihari 
+
+Email: ssrihar2@jh.edu
+
+Master's student at Johns Hopkins University - Biomedical Engineering
+
