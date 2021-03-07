@@ -4,7 +4,7 @@
 
 Name: Sahana Srihari 
 
-Email: ssrihar2@jh.edu
+Email: sahana.srihari123@gmail.com | ssrihar2@jh.edu
 
-Master's student at Johns Hopkins University - Biomedical Engineering
+Master's student at The Johns Hopkins University - Biomedical Engineering
 
